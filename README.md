@@ -1,1 +1,3 @@
-# google_coding_competitions
+## GOOGLE COMPETITIONS 
+- 1 Code Jam
+- 2 Kick Start
